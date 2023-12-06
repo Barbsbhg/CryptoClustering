@@ -9,3 +9,4 @@
 * Use the <code>StandardScaler()</code> module from <code>scikit-learn</code> to normalize the data from the CSV file.
 * Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
     * The first five rows of the scaled DataFrame should appear as follows:
+  ![ScaledDataframe](images/scaled_DataFrame.png)
